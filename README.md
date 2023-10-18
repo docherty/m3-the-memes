@@ -2,9 +2,10 @@ This repo contains a website displaying The Memes collection.
 
 ## Structure
 ```
-/raw
-
-site/
+datamanipulator.py        # Script to generate the data files
+/raw                      # Directory for raw json files (downloaded from an API etc.)
+│
+/site/                    # Website root...this is what needs to be published
 │
 ├── index.html            # Main HTML file
 ├── css/
