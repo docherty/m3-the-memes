@@ -11,11 +11,14 @@ datamanipulator.py        # Script to generate the data files
 ├── css/
 │   └── styles.css
 │
+├── fonts/                
+│   └── ...
+│
 ├── images/               # Directory for images (empty)
 │   ├── /ui               # Images for UI elements
 │        └── ...
 │
-├── js/                   # Directory for JavaScript files
+├── js/
 │   └── script.js
 ``` 
 

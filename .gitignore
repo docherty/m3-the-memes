@@ -1,0 +1,4 @@
+# Ignore IDE files
+.vscode/
+# ignore macos files
+.DS_Store
